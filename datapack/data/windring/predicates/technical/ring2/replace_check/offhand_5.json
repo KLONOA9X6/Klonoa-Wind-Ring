@@ -4,7 +4,7 @@
     "predicate": {
       "equipment": {
         "offhand": {
-          "nbt": "{windringring2:1}",
+          "nbt": "{windring:2}",
           "enchantments": [
             {"enchantment": "mending","levels":{"max":3,"min": 1}}
           ]

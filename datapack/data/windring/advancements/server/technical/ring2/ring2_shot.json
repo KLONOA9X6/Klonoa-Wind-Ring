@@ -9,7 +9,7 @@
             "trigger": "minecraft:shot_crossbow",
             "conditions": {
               "item":{
-                "nbt":"{windringring2:1}"
+                "nbt":"{windring:2}"
               }
             }
           },"log_spam_fixer": {

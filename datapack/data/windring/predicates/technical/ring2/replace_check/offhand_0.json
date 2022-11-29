@@ -4,7 +4,7 @@
     "predicate": {
       "equipment": {
         "offhand": {
-          "nbt": "{windringring2:1,RepairCost:0}"
+          "nbt": "{windring:2,RepairCost:0}"
         }
       }
     }
