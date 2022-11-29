@@ -17,7 +17,7 @@ Wind ring:
 Leorina's ring:
 
 ```
-/give @s minecraft:crossbow{CustomModelData:101,display:{Name:'{"text":"Leorina's Ring","italic": false,"color":"gold"}'},HideFlags:5, Unbreakable:1,Enchantments:[{id:"quick_charge",lvl:4}],windring:2}
+/give @s minecraft:crossbow{CustomModelData:102,display:{Name:'{"text":"Leorina's Ring","italic": false,"color":"gold"}'},HideFlags:5, Unbreakable:1,Enchantments:[{id:"quick_charge",lvl:4}],windring:2}
 ```
 
 ## How to use it
