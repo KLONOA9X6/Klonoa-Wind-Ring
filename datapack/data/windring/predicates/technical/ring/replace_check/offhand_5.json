@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "nbt": "{windring:1}",
+          "enchantments": [
+            {"enchantment": "mending","levels":{"max":3,"min": 1}}
+          ]
+        }
+      }
+    }
+  }

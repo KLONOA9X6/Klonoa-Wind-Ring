@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring/arrowcheck/sparrowoffhand"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring/arrowcheck/sparrowowmainhand"
+      }
+    ]
+  }
+  

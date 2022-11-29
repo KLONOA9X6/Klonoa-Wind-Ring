@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/mainhand"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/offhand"
+      }
+    ]
+  }
+  

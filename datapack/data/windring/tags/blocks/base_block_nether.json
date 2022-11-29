@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium",
+    "minecraft:netherrack",
+    "minecraft:basalt",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:nether_bricks",
+    "minecraft:warped_wart_block",
+    "minecraft:nether_wart_block",
+    "minecraft:blackstone",
+    "minecraft:nether_gold_ore",
+    "minecraft:nether_quartz_ore"
+  ]
+}

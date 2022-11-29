@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "equipment": {
+        "offhand": {
+          "nbt": "{windringring2:1}",
+          "enchantments": [
+            {"enchantment": "multishot","levels":{"max":3,"min": 1}}
+          ]
+        }
+      }
+    }
+  }

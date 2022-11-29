@@ -1,0 +1,62 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_0"
+      },
+        {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_1"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_2"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_3"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_4"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_5"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/mainhand_6"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_0"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_1"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_2"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_3"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_4"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_5"
+      },
+      {
+        "condition": "minecraft:reference",
+        "name": "windring:technical/ring2/replace_check/offhand_6"
+      }
+    ]
+  }
+  

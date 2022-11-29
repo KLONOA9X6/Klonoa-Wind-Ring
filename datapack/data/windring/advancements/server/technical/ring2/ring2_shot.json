@@ -1,0 +1,19 @@
+{
+    "parent": "windring:server/root",
+        "rewards": {
+          "function": 
+            "windring:technical/ring2/shot"
+        },
+        "criteria": {
+          "ringshot":{
+            "trigger": "minecraft:shot_crossbow",
+            "conditions": {
+              "item":{
+                "nbt":"{windringring2:1}"
+              }
+            }
+          },"log_spam_fixer": {
+            "trigger": "minecraft:location"
+          }
+        }
+      }
